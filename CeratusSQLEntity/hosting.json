@@ -1,0 +1,2 @@
+﻿// Specify server url, currently port 5001 - view app at http://localhost:5001/ for default local config
+{ "urls": "http://*:5001;" }
